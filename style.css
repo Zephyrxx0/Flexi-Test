@@ -30,7 +30,7 @@ nav{
 
 .m-child{
     height: 20vh;
-    width: 30vh;
+    width: 50vh;
     display: flex;
     flex-direction: row;
     background-color: rgb(241, 53, 159);
@@ -48,7 +48,7 @@ nav{
 
 .m2-child{
     height: 20vh;
-    width: 50vh;
+    width: 100vh;
     align-items: center;
     margin: 10px;
     background-color:rgb(242, 151, 202);
@@ -57,7 +57,7 @@ nav{
 .bottom{
     height: 20vh;
     width: auto;
-    background-color: rgb(238, 158, 203);
+    background-color: rgb(247, 202, 227);
 }
 
 /* Tablet Layout: main div, next section with 4 divs in square format, bottom div */
